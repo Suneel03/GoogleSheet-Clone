@@ -219,6 +219,7 @@ body{
 .cell {
     height: 2rem;
     width: 5rem;
+    overflow-x: auto;
     border: 1px solid #dfe4ea;
     outline: none;
     
