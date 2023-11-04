@@ -183,6 +183,7 @@ body{
 
 .cells-cont {
     position: absolute;
+    overflow-x: auto;
     top: 0;
     left: 2rem;
    
